@@ -17,8 +17,8 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
   spec.version       = Omniauth::Tictail::VERSION
 
-  gem.add_dependency 'faraday',   ['>= 0.8', '< 0.10']
-  gem.add_dependency 'multi_json', '~> 1.3'
-  gem.add_dependency 'oauth2',     '~> 1.0'
-  gem.add_dependency 'omniauth',   '~> 1.2'
+  spec.add_dependency 'faraday',   ['>= 0.8', '< 0.10']
+  spec.add_dependency 'multi_json', '~> 1.3'
+  spec.add_dependency 'oauth2',     '~> 1.0'
+  spec.add_dependency 'omniauth',   '~> 1.2'
 end
