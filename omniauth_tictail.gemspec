@@ -5,7 +5,7 @@ require 'omniauth_tictail/version'
 
 Gem::Specification.new do |spec|
   spec.authors       = ['Andrew Chernysh']
-  spec.email         = ['andriy@kitcrm.com']
+  spec.email         = ['andie.chernysh@gmail.com']
   spec.description   = 'OmniAuth strategy for Tictail'
   spec.summary       = 'OmniAuth strategy for Tictail'
   spec.homepage      = 'http://github.com/andie-chernysh/omniauth-tictail'

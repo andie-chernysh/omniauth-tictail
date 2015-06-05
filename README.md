@@ -1,12 +1,12 @@
 # OmniauthTictail
 
-TODO: Write a gem description
+OmniAuth strategy for Tictail
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'omniauth_tictail'
+    gem 'omniauth-tictail'
 
 And then execute:
 
@@ -14,15 +14,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install omniauth_tictail
-
-## Usage
-
-TODO: Write usage instructions here
+    $ gem install omniauth-tictail
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/omniauth_tictail/fork )
+1. Fork it ( https://github.com/[my-github-username]/omniauth-tictail/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
