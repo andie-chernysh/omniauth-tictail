@@ -1,3 +1,5 @@
+TEST
+
 # OmniauthTictail
 
 OmniAuth strategy for Tictail
